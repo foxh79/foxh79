@@ -1,0 +1,18 @@
+👋 Hi there, I'm Boniface Mwau!
+
+👀 I'm interested in exploring the intersection of technology and creativity.
+
+🌱 I'm currently learning web development and machine learning, IN MY THIRD YEAR, Bsc. Computer Science, Maseno university. 
+
+💞️ I'm looking to collaborate on open-source projects that make a positive impact on society.
+
+📫 You can reach me via email at foxhtro@gmail.com. 
+
+😄 Pronouns: [MALE/HE]
+
+⚡ Fun fact: I'm an avid hiker and love exploring the great outdoors whenever I get the chance!
+
+<!---
+foxh79/foxh79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
