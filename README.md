@@ -8,8 +8,6 @@
 
 📫 You can reach me via email at foxhtro@gmail.com. 
 
-😄 Pronouns: [MALE/HE]
-
 ⚡ Fun fact: I'm an avid hiker and love exploring the great outdoors whenever I get the chance!
 
 <!---
