@@ -1,6 +1,6 @@
 👋 Hi there, I'm Boniface Mwau!
 
-👀 I'm interested in exploring the intersection of technology and creativity.
+👀 I'm interested in exploring the intersection of technology and creativity. 
 
 🌱 I'm currently learning web development and machine learning, in my third year, Bsc. Computer Science, Maseno university. 
 
