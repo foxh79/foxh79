@@ -1,4 +1,4 @@
-👋 Hi there, I'm Boniface Mwau!
+👋 Hi there, I'm Boniface Mwau, a Kenyan!
 
 👀 I'm interested in exploring the intersection of technology and creativity. 
 
