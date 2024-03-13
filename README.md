@@ -2,7 +2,7 @@
 
 👀 I'm interested in exploring the intersection of technology and creativity.
 
-🌱 I'm currently learning web development and machine learning, IN MY THIRD YEAR, Bsc. Computer Science, Maseno university. 
+🌱 I'm currently learning web development and machine learning, in my third year, Bsc. Computer Science, Maseno university. 
 
 💞️ I'm looking to collaborate on open-source projects that make a positive impact on society.
 
