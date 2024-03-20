@@ -8,7 +8,7 @@
 
 📫 You can reach me via email at foxhtro@gmail.com. 
 
-⚡ Fun fact: I'm an avid hiker and love exploring the great outdoors whenever I get the chance!
+⚡ Fun fact: I'm an avid hiker and love exploring the great outdoors, especially camping 🏕, whenever I get the chance!
 
 <!---
 foxh79/foxh79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
