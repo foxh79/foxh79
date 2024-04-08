@@ -1,4 +1,4 @@
- 👋 Hi there, I'm Boniface Mwau!
+  👋 Hi there, I'm Boniface Mwau!
 
 👀 I'm interested in exploring the intersection of technology, creativity and future trends in Artificial Intelligence. 
 
