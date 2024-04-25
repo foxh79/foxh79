@@ -2,7 +2,7 @@
 
 👀 I'm interested in exploring the intersection of technology, creativity and future trends in Artificial Intelligence. 
 
-🌱 I'm currently learning web development(JAVASCRIPT, HTML, CSS, REACT, DJANGO, LARAVEL) and machine learning(PYTHON), in my third year, Bsc. Computer Science, Maseno university. 
+🌱 I'm currently learning web development(JAVASCRIPT, HTML, CSS, REACT, DJANGO, LARAVEL) and machine learning(PYTHON), in my fourth year, Bsc. Computer Science, Maseno university. 
 
 💞️ I'm looking to collaborate on open-source projects that make a positive impact on society.
 
