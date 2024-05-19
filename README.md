@@ -2,7 +2,7 @@
 
 👀 My expertise lies at the intersection of technological innovation, creative exploration, and the evolving landscape of Artificial Intelligence.
 
-🌱 Currently, I am deeply engaged in honing my craft in web development (JavaScript, HTML, CSS, React, Django, Laravel) and delving into the intricacies of machine learning algorithms (Python) as part of my fourth-year pursuit of a BSc. in Computer Science at Maseno University.
+🌱 Currently, I am deeply engaged in honing my craft in web development (JavaScript, HTML, CSS, React, NextJs, Django, Laravel) and delving into the intricacies of machine learning algorithms (Python) as part of my fourth-year pursuit of a BSc. in Computer Science at Maseno University.
 
 💞️ Actively seeking opportunities to collaborate on sophisticated open-source projects that drive meaningful societal progress.
 
