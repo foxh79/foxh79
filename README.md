@@ -134,8 +134,6 @@
 | **Deployment** | Vercel with automatic deployments |
 | **Purpose** | Professional portfolio and project showcase |
 
- Integration**
-[![Repository](https://img.shields.io/badge/Repository-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/weather-app)
 
 ## 🎓 Academic Excellence & Achievements
 
@@ -146,29 +144,10 @@
 ### **Academic Achievements**
 | **Achievement** | **Details** | **Year** |
 |:---|:---|:---|
-| **First Class Honours** | BSc Computer Science, Maseno University | 2024 |
+| **First Class Honours** | BSc Computer Science, Maseno University | 2025 |
 | **Outstanding Final Year Project** | Real-Time Chat Application | 2024 |
-| **Dean's List** | Top 10% of Computer Science students | 2022-2024 |
-| **Best Web Development Project** | E-Commerce Application | 2023 |
-| **Programming Excellence Award** | Outstanding performance in software development | 2023 |
+| **Dean's List** | Top 10% of Computer Science students | 2021-2025 |
 
-### **Technical Certifications**
-| **Certification** | **Platform** | **Status** |
-|:---|:---|:---|
-| **React - The Complete Guide** | Udemy | Completed |
-| **Firebase Fundamentals** | Google | Completed |
-| **JavaScript Algorithms and Data Structures** | freeCodeCamp | Completed |
-| **Responsive Web Design** | freeCodeCamp | Completed |
-| **AWS Cloud Practitioner** | Amazon Web Services | In Progress |
-
-### **Extracurricular Activities**
-| **Activity** | **Role** | **Impact** |
-|:---|:---|:---|
-| **Computer Science Society** | Vice President | Organized 5+ tech workshops |
-| **Web Development Bootcamp** | Lead Instructor | Taught 25+ students React & Firebase |
-| **Hackathon Participation** | Team Lead | 3 hackathons, 1 second place finish |
-| **Tech Blog Writing** | Author | 8+ articles on web development |
-| **Peer Tutoring** | Tutor | Helped 15+ students with programming |
 
 </div>
 
