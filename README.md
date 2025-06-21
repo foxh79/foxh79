@@ -11,9 +11,6 @@
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-React%20%26%20Firebase-1F2937?style=for-the-badge&logo=react&logoColor=10B981&labelColor=111827)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-1F2937?style=for-the-badge&logo=briefcase&logoColor=F59E0B&labelColor=111827)
 
-<!-- Professional Metrics -->
-![Profile Views](https://komarev.com/ghpvc/?username=foxh79&style=for-the-badge&color=374151&label=Profile+Views&labelColor=111827)
-![GitHub Followers](https://img.shields.io/github/followers/foxh79?style=for-the-badge&color=374151&labelColor=111827&logo=github)
 
 </div>
 
@@ -29,7 +26,7 @@
 | **Professional Alias** | foxh79 |
 | **Current Status** | Recent Graduate & Full-Stack Developer |
 | **Location** | Nairobi, Kenya 🇰🇪 |
-| **Education** | BSc Computer Science, Maseno University (2024) |
+| **Education** | BSc Computer Science, Maseno University (2025) |
 | **Specialization** | Full-Stack Development & Real-time Applications |
 | **Academic Performance** | First Class Honours |
 | **Focus Areas** | React, Firebase, Real-time Systems, AI/ML |
@@ -151,20 +148,8 @@
 
 </div>
 
----
-
 ## 📈 Current Learning Journey
 
-<div align="center">
-
-### **Active Learning Path - 2024**
-| **Technology** | **Current Focus** | **Progress** | **Next Steps** |
-|:---|:---|:---|:---|
-| **Next.js** | Server-side rendering, API routes | 60% | Full-stack applications |
-| **TypeScript** | Type safety in React projects | 70% | Advanced patterns |
-| **Docker** | Containerization basics | 30% | Container orchestration |
-| **AWS** | Cloud fundamentals | 40% | Deployment & hosting |
-| **Machine Learning** | Python basics for ML | 25% | TensorFlow fundamentals |
 
 ### **Skills Development Progress**
 ```text
