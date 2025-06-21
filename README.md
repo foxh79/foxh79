@@ -101,8 +101,6 @@
 <div align="center">
 
 ### **Real-Time Chat Application (Final Year Project)**
-[![Repository](https://img.shields.io/badge/Repository-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/realtime-chat-app)
-[![Status](https://img.shields.io/badge/Status-Ready_for_Deployment-1F2937?style=for-the-badge&logo=rocket&logoColor=F59E0B&labelColor=111827)](https://github.com/foxh79/realtime-chat-app)
 
 | **Specification** | **Details** |
 |:---|:---|
@@ -136,43 +134,8 @@
 | **Deployment** | Vercel with automatic deployments |
 | **Purpose** | Professional portfolio and project showcase |
 
-### **E-Commerce Web Application**
-[![Repository](https://img.shields.io/badge/Repository-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/ecommerce-app)
-
-| **Specification** | **Details** |
-|:---|:---|
-| **Frontend** | React.js, Bootstrap, JavaScript |
-| **Backend** | Node.js, Express.js, MongoDB |
-| **Features** | Product catalog, shopping cart, user accounts |
-| **Payment** | Stripe API integration (test mode) |
-| **Authentication** | JWT-based user authentication |
-
-### **Student Management System**
-[![Repository](https://img.shields.io/badge/Repository-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/student-management-system)
-
-| **Specification** | **Details** |
-|:---|:---|
-| **Technology Stack** | Python, Django, PostgreSQL |
-| **Features** | CRUD operations, user roles, reporting |
-| **Team Project** | 3 members (Team Lead) |
-| **Database Design** | Normalized database with relationships |
-| **Grade** | A (88/100) |
-
-### **Weather App with API Integration**
+ Integration**
 [![Repository](https://img.shields.io/badge/Repository-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/weather-app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_It_Out-1F2937?style=for-the-badge&logo=vercel&logoColor=60A5FA&labelColor=111827)](https://weather-app-foxh79.vercel.app)
-
-| **Specification** | **Details** |
-|:---|:---|
-| **Frontend** | Vanilla JavaScript, HTML5, CSS3 |
-| **API Integration** | OpenWeatherMap API |
-| **Features** | Current weather, 5-day forecast, geolocation |
-| **Responsive** | Mobile-first design approach |
-| **Deployment** | Vercel hosting |
-
-</div>
-
----
 
 ## 🎓 Academic Excellence & Achievements
 
