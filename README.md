@@ -1,101 +1,198 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=61DAFB&center=true&vCenter=true&width=440&lines=Boniface+Mwau+Kimanthi;AI+Engineer+%7C+Full+Stack+Developer;Real-Time+Systems+%7C+ML+Researcher;Clean.+Scalable.+Impactful." alt="Typing SVG" />
-</h1>
+<!-- 
+██████╗  ██████╗ ███╗   ██╗██╗███████╗ █████╗  ██████╗███████╗    ███╗   ███╗██╗    ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔═══██╗████╗  ██║██║██╔════╝██╔══██╗██╔════╝██╔════╝    ████╗ ████║██║    ██║██╔══██╗██║   ██║
+██████╔╝██║   ██║██╔██╗ ██║██║█████╗  ███████║██║     █████╗      ██╔████╔██║██║ █╗ ██║███████║██║   ██║
+██╔══██╗██║   ██║██║╚██╗██║██║██╔══╝  ██╔══██║██║     ██╔══╝      ██║╚██╔╝██║██║███╗██║██╔══██║██║   ██║
+██████╔╝╚██████╔╝██║ ╚████║██║██║     ██║  ██║╚██████╗███████╗    ██║ ╚═╝ ██║╚███╔███╔╝██║  ██║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚═╝     ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ 
+-->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently%20Building-AI%20Apps%20%7C%20EduBot-1E3A8A?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=foxh79&style=for-the-badge&color=10B981" alt="profile views"/>
+  
+# 🌌 WELCOME TO THE DIGITAL FRONTIER 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BONIFACE%20MWAU&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20ARCHITECT%20%7C%20DIGITAL%20INNOVATOR%20%7C%20CODE%20ALCHEMIST&descSize=16&descAlignY=51"/>
+
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Initializing+Neural+Networks...;%3E+Loading+AI+Frameworks...;%3E+Compiling+Future+Solutions...;%3E+Ready+to+Transform+Ideas+into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 **BSc. Computer Science Graduate - Maseno University**  
-⚡ I specialize in building **intelligent**, **real-time**, and **AI-powered** solutions.  
-🌍 I'm driven by impact, guided by clean code, and inspired by the transformative power of technology.
-
----
-
-## 🛠️ Tech Toolbox
-
-| Frontend | Backend | AI/ML | Tools & Ops |
-|---------|---------|-------|-------------|
-| React, Next.js, Tailwind CSS | Django, Laravel, Firebase | Python, TensorFlow, scikit-learn, NLTK | Git, GitHub, Figma, Vercel, Postman |
-| HTML5, CSS3, TypeScript | Node.js, REST APIs, WebSockets | Transformers, Spacy, Pandas, FastAPI | VS Code, Linux, Adobe Suite |
-
----
-
-## 🔥 My Focus Areas
-
-- 🔗 AI for Low-Resource Languages  
-- ⚡ Real-Time Web Apps (Chat, Collaboration, IoT)  
-- 📈 Data Analytics & Interactive Dashboards  
-- 💬 Conversational AI & NLP  
-
----
-
-## 💼 Featured Project
-
-### 🎓 [EduBot: AI Tutor for African Learners](https://github.com/foxh79/IndabaXKenya2025)
-A low-resource NLP-powered chatbot to assist underserved students:
-- 🤖 Spacy + HuggingFace Transformers  
-- 🔌 Firebase + React + DeepSeek API  
-- 💬 Multilingual & offline-accessible tutoring  
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foxh79&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://streak-stats.demolab.com?user=foxh79&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&layout=compact&theme=radical&hide_border=false" />
+
+## 🔮 QUANTUM IDENTITY MATRIX 🔮
+
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## ⌨️ Coding Activity (WakaTime)
+### 🧬 **CORE PROTOCOLS**
+```yaml
+Name: Boniface Mwau Kimanthi
+Alias: foxh79
+Status: [ONLINE] 🟢
+Location: Kenya 🇰🇪
+Education: BSc Computer Science - Maseno University
+Mission: Building AI-Powered Solutions for Tomorrow
+```
 
-> 🕓 Coming soon: WakaTime integration to show weekly coding stats!
+</td>
+<td align="center" width="50%">
 
----
+### ⚡ **SYSTEM STATS**
+```yaml
+Experience: 3+ Years
+Projects: 50+ Deployed
+Languages: 12+ Mastered
+Coffee Consumed: ∞ Cups
+Lines of Code: 100K+
+Bugs Fixed: 9,999+
+```
 
-## 📚 Latest Blog Posts
-
-> ✍️ Coming soon: NLP guides, Firebase AI tutorials & project breakdowns!
-
----
-
-## 🤝 Connect With Me
-
-| 🌍 Portfolio | 💼 LinkedIn | 🐦 X (Twitter) |
-|-------------|-------------|----------------|-------------|
-| [boniface-mwau.vercel.app](https://boniface-mwau.vercel.app) | [linkedin.com/in/foxh79](https://linkedin.com/in/foxh79) | [x.com/codewithFoxh](https://x.com/codewithFoxh) | [facebook.com/Foxh](https://facebook.com/Foxh) |
-
----
-
-## 🧘 Beyond the Code
-
-> 🏞️ Hiking, camping, and nature walks fuel my creativity.  
-> I find clarity and resilience off the grid—and bring that energy back into code.
-
----
-
-## ✨ Fun Facts
-
-- 🎖️ Best KCSE performer in Makueni County  
-- 🧠 Self-taught in ML, NLP, and Firebase  
-- 🌍 Proudly African, building for the world  
-- 🔥 Always ready to learn, build, and collaborate  
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-  <br><br>
-  <i>“Code with empathy. Build with clarity. Deliver with purpose.”</i>
+
+## 🛸 TECHNOLOGY CONSTELLATION 🛸
+
 </div>
 
-<!-- Created with ❤️ by Boniface Mwau | Inspired by GPRM + Custom Enhancements -->
+<div align="center">
+
+### 🔥 **FRONTEND ARSENAL**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ⚙️ **BACKEND POWERHOUSE**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 **AI/ML NEURAL NETWORK**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔧 **DEVOPS & TOOLS**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 MISSION CONTROL CENTER 🚀
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=foxh79&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=foxh79&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=12" />
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=foxh79&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 FEATURED QUANTUM PROJECTS 🌟
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 [EduBot: AI Learning Companion](https://github.com/foxh79/IndabaXKenya2025)
+```
+🤖 Advanced NLP-powered educational assistant
+🔥 Tech Stack: Python, Transformers, Firebase
+🌍 Impact: Serving underserved African learners
+⚡ Features: Multilingual, Offline-capable
+```
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=foxh79&repo=IndabaXKenya2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)](https://github.com/foxh79/IndabaXKenya2025)
+
+</td>
+<td width="50%">
+
+### 🔮 [Neural Portfolio Hub](https://boniface-mwau.vercel.app)
+```
+🌐 Next.js powered digital showcase
+✨ Features: 3D animations, Dark mode
+🎨 Design: Futuristic UI/UX
+📱 Responsive: Mobile-first approach
+```
+[![Website](https://img.shields.io/badge/🌐%20Live%20Demo-00F5FF?style=for-the-badge&logoColor=white)](https://boniface-mwau.vercel.app)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT OBJECTIVES 🎯
+
+</div>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🧠 AI Research] --> B[🤖 NLP for African Languages]
+    A --> C[⚡ Real-time ML Systems]
+    D[🌐 Full-Stack Development] --> E[🔥 Next.js Applications]
+    D --> F[📊 Data Visualization]
+    G[🚀 Innovation] --> H[🌍 Social Impact Projects]
+    G --> I[💡 Open Source Contributions]
+    
+    style A fill:#00F5FF,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#000
+    style G fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#000
