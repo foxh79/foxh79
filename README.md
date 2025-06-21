@@ -121,7 +121,7 @@
 
 ### **Personal Portfolio Website**
 [![Website](https://img.shields.io/badge/Website-Visit_Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=60A5FA&labelColor=111827)](https://boniface-mwau.vercel.app)
-[![Source](https://img.shields.io/badge/Source-View_Code-1F2937?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827)](https://github.com/foxh79/portfolio)
+
 
 | **Specification** | **Details** |
 |:---|:---|
