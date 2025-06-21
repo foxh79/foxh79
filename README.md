@@ -1,18 +1,101 @@
-# 💫 About Me:
-👋 Hello, I'm Boniface Mwau Kimanthi<br><br>I am a Computer Science graduate from Maseno University, with a strong foundation in software engineering, intelligent systems, and real-time web technologies. My passion lies in building elegant, scalable, and AI-enhanced digital solutions that deliver real-world value.<br><br>With a focus on clean architecture, performance optimization, and seamless user experience, I bring a full-stack mindset to every project—from designing intuitive front-ends to architecting efficient back-ends and deploying AI-powered functionality.<br><br>Key Areas of Expertise<br><br>🌐 Modern Web Development: React, Next.js, Django, Laravel<br><br>🤖 Machine Learning & AI: Python, TensorFlow, scikit-learn<br><br>⚡ Real-Time Applications: Firebase, WebSockets, RESTful APIs<br><br>🎨 UI/UX Design, Responsive Layouts, and Code Maintainability<br><br><br>Professional Highlights<br><br>Delivered a full-stack real-time chat application with AI integration using React, Firebase, and DeepSeek<br><br>Developed intelligent agents and machine learning pipelines for academic and independent projects<br><br>Demonstrated leadership in solo projects and collaborative open-source environments<br><br><br>Let's Connect<br><br>📧 kymhbonyh79@gmail.com<br><br>🌐 boniface-mwau.vercel.app<br><br>💼 linkedin.com/in/foxh79<br><br><br>Beyond Code<br>🌿 Outside of tech, I find balance in nature—hiking, camping, and exploring the outdoors fuel my creativity and resilience.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=61DAFB&center=true&vCenter=true&width=440&lines=Boniface+Mwau+Kimanthi;AI+Engineer+%7C+Full+Stack+Developer;Real-Time+Systems+%7C+ML+Researcher;Clean.+Scalable.+Impactful." alt="Typing SVG" />
+</h1>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Foxh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foxh79) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewithFoxh) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=foxh79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=foxh79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Building-AI%20Apps%20%7C%20EduBot-1E3A8A?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=foxh79&style=for-the-badge&color=10B981" alt="profile views"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=foxh79&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 **BSc. Computer Science Graduate - Maseno University**  
+⚡ I specialize in building **intelligent**, **real-time**, and **AI-powered** solutions.  
+🌍 I'm driven by impact, guided by clean code, and inspired by the transformative power of technology.
+
+---
+
+## 🛠️ Tech Toolbox
+
+| Frontend | Backend | AI/ML | Tools & Ops |
+|---------|---------|-------|-------------|
+| React, Next.js, Tailwind CSS | Django, Laravel, Firebase | Python, TensorFlow, scikit-learn, NLTK | Git, GitHub, Figma, Vercel, Postman |
+| HTML5, CSS3, TypeScript | Node.js, REST APIs, WebSockets | Transformers, Spacy, Pandas, FastAPI | VS Code, Linux, Adobe Suite |
+
+---
+
+## 🔥 My Focus Areas
+
+- 🔗 AI for Low-Resource Languages  
+- ⚡ Real-Time Web Apps (Chat, Collaboration, IoT)  
+- 📈 Data Analytics & Interactive Dashboards  
+- 💬 Conversational AI & NLP  
+
+---
+
+## 💼 Featured Project
+
+### 🎓 [EduBot: AI Tutor for African Learners](https://github.com/foxh79/IndabaXKenya2025)
+A low-resource NLP-powered chatbot to assist underserved students:
+- 🤖 Spacy + HuggingFace Transformers  
+- 🔌 Firebase + React + DeepSeek API  
+- 💬 Multilingual & offline-accessible tutoring  
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foxh79&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=foxh79&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&layout=compact&theme=radical&hide_border=false" />
+</div>
+
+---
+
+## ⌨️ Coding Activity (WakaTime)
+
+> 🕓 Coming soon: WakaTime integration to show weekly coding stats!
+
+---
+
+## 📚 Latest Blog Posts
+
+> ✍️ Coming soon: NLP guides, Firebase AI tutorials & project breakdowns!
+
+---
+
+## 🤝 Connect With Me
+
+| 🌍 Portfolio | 💼 LinkedIn | 🐦 X (Twitter) |
+|-------------|-------------|----------------|-------------|
+| [boniface-mwau.vercel.app](https://boniface-mwau.vercel.app) | [linkedin.com/in/foxh79](https://linkedin.com/in/foxh79) | [x.com/codewithFoxh](https://x.com/codewithFoxh) | [facebook.com/Foxh](https://facebook.com/Foxh) |
+
+---
+
+## 🧘 Beyond the Code
+
+> 🏞️ Hiking, camping, and nature walks fuel my creativity.  
+> I find clarity and resilience off the grid—and bring that energy back into code.
+
+---
+
+## ✨ Fun Facts
+
+- 🎖️ Best KCSE performer in Makueni County  
+- 🧠 Self-taught in ML, NLP, and Firebase  
+- 🌍 Proudly African, building for the world  
+- 🔥 Always ready to learn, build, and collaborate  
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <br><br>
+  <i>“Code with empathy. Build with clarity. Deliver with purpose.”</i>
+</div>
+
+<!-- Created with ❤️ by Boniface Mwau | Inspired by GPRM + Custom Enhancements -->
