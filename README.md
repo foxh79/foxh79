@@ -67,7 +67,7 @@
 | **Achievement** | **Details** | **Year** |
 |:---|:---|:---|
 | **First Class Honours** | BSc Computer Science, Maseno University | 2025 |
-| **Outstanding Final Year Project** | Real-Time Chat Application | 2024 |
+| **Outstanding Final Year Project** | Real-Time Chat Application | 2025 |
 | **Dean's List** | Top 10% of Computer Science students | 2021-2025 |
 
 
