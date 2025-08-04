@@ -41,7 +41,7 @@
 - 📊 **Final CGPA:** 4.69 / 5.00  
 - 📈 **Average Score:** 76.73 / 80  
 - 🥇 **Classification:** First Class Honours  
-- 🏆 **Distinction:** Graduated top of class and set a new academic record in BSc Computer Science  
+- 🏆 **Distinction:** Graduated top of class 
 - ⚡ **Resilience:** Achieved under limited computing resources — a testament to consistency, passion, and self-drive
 
 ---
