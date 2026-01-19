@@ -27,7 +27,7 @@
 | **Location** | Nairobi, Kenya 🇰🇪 |
 | **Education** | BSc Computer Science, Maseno University (2025) |
 | **Specialization** | Full-Stack Development & Real-time Applications |
-| **Academic Performance** | First Class Honours | Ranked First |
+| **Academic Performance** | First Class Honours - Ranked First |
 | **Focus Areas** | React, Firebase, Real-time Systems, AI/ML |
 | **Career Goal** | Full-Stack Developer / Software Engineer |
 
