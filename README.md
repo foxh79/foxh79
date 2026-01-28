@@ -9,89 +9,96 @@
 ![Open Worldwide](https://img.shields.io/badge/Open%20to-Global%20Opportunities-1F2937?style=for-the-badge&logo=globe&logoColor=F59E0B&labelColor=111827)
 
 </div>
-👋 About Me
-I am an AI software engineer and MSc Computer Science candidate with a strong foundation in full-stack development and a growing specialization in speech and language technologies. My work sits at the intersection of software engineering, machine learning, and applied research, with a focus on building practical and scalable AI systems.
+```
 
-🔬 Research Statement
-I focus on low-resource ASR and NLP, studying data scaling laws and self-supervised methods to build robust speech systems under limited data constraints.
+---
 
-🔬 Research Interests
-Low-resource Automatic Speech Recognition (ASR)
+## 👋 About Me
 
-Natural Language Processing for underrepresented and multilingual settings
+I am an **AI Software Engineer** and **MSc Computer Science candidate** with a strong foundation in full-stack development and a growing specialization in **speech and language technologies**.
+My work sits at the intersection of **software engineering, machine learning, and applied research**, with an emphasis on building **practical, scalable, and data-efficient AI systems**.
 
-Data scaling laws in speech and language models
+---
 
-Self-supervised learning for speech and text
+## 🔬 Research Statement
 
-Data-efficient and compute-aware AI systems
+> **I focus on low-resource ASR and NLP, studying data scaling laws and self-supervised methods to build robust speech systems under limited data constraints.**
 
-Applied AI for real-world deployment
+---
 
-🧠 Technical Expertise
-Speech & Language AI
-End-to-end and hybrid ASR pipelines
+## 🔬 Research Interests
 
-Audio preprocessing, feature extraction, and evaluation
+* Low-resource **Automatic Speech Recognition (ASR)**
+* **Natural Language Processing** for underrepresented and multilingual settings
+* **Data scaling laws** in speech and language models
+* **Self-supervised learning** for speech and text
+* Data-efficient and compute-aware AI systems
+* Applied AI for real-world deployment
 
-Transformer-based speech and NLP models
+---
 
-Working with limited and noisy datasets
+## 🧠 Technical Expertise
 
-Experiment tracking and reproducibility
+### 🎙️ Speech & Language AI
 
-Machine Learning & Data
-Python-based ML workflows
+* End-to-end and hybrid **ASR pipelines**
+* Audio preprocessing, feature extraction, and evaluation
+* Transformer-based speech and NLP models
+* Working with **limited, noisy, and real-world datasets**
+* Experiment tracking and reproducibility
 
-Model training, evaluation, and analysis
+### 🤖 Machine Learning & Data
 
-Data preprocessing and augmentation
+* Python-based ML workflows
+* Model training, evaluation, and analysis
+* Data preprocessing and augmentation
+* Research-driven experimentation
 
-Research-driven experimentation
+### 💻 Software Engineering
 
-Software Engineering
-Full-stack development (React, Node.js, Firebase)
+* Full-stack development (**React, Node.js, Firebase**)
+* API design for ML-powered systems
+* Real-time and event-driven architectures
+* Clean, maintainable, and scalable codebases
 
-API design for ML-powered systems
+---
 
-Real-time and event-driven architectures
+## 🎓 Academic Background
 
-Clean, maintainable, and scalable codebases
+### Master of Science (MSc) — Computer Science *(Ongoing)*
 
-🎓 Academic Background
-Master of Science (MSc) — Computer Science (Ongoing)
-Focus on AI, speech technologies, and NLP
+* Focus on AI, speech technologies, and NLP
+* Applying research methods to speech and language modeling
 
-Applying research methods to speech and language modeling
+### Bachelor of Science (BSc) — Computer Science
 
-Bachelor of Science (BSc) — Computer Science
-Maseno University
+* **Maseno University**
+* **First Class Honours**
+* **CGPA:** 4.69 / 5.00
+* **Rank:** Top Student — Class of 2025
 
-First Class Honours
+---
 
-CGPA: 4.69 / 5.00
+## 🧪 Current Work
 
-Rank: Top Student — Class of 2025
+* Developing **low-resource ASR systems** for underrepresented languages
+* Investigating **data scaling behavior** in speech models
+* Experimenting with **self-supervised pretraining** for speech and NLP
+* Integrating AI models into **practical software pipelines**
 
-🧪 Current Work
-Developing low-resource ASR systems for underrepresented languages
+---
 
-Investigating data scaling behavior in speech models
+## 🌍 Career Interests
 
-Experimenting with self-supervised pretraining for speech and NLP
+* AI Engineer (**Speech & NLP**)
+* Research Engineer (**Speech / Language**)
+* MSc Research & **AI Lab Internships**
+* Roles bridging **research and production engineering**
 
-Integrating AI models into practical software pipelines
+🌐 **Open to remote roles and international relocation**
 
-🌍 Career Interests
-AI Engineer (Speech & NLP)
+---
 
-Research Engineer (Speech / Language)
+## 📫 Connect
 
-MSc Research & AI Lab Internships
-
-Roles bridging research and production engineering
-
-Open to remote roles and international relocation.
-
-📫 Connect
-💼 GitHub: @foxh79
+* 💼 **GitHub:** `@foxh79`
