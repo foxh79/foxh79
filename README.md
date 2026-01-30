@@ -1,104 +1,89 @@
 <div align="center">
+  <img src="https://github.com/foxh79/foxh79/raw/main/github-header-banner.png" alt="Boniface Mwau - AI & Speech Technologies" width="100%"/>
 
-<img src="https://github.com/foxh79/foxh79/raw/main/github-header-banner.png" alt="Boniface Mwau - Matrix Banner"/>
+  <br><br>
 
-<br/><br/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Low-resource+Speech+and+Language+AI;Automatic+Speech+Recognition+%26+NLP;Scalable+and+Data-efficient+AI+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Low-resource+Speech+and+Language+AI;Automatic+Speech+Recognition+%26+NLP;Scalable+and+Data-efficient+AI+Systems)](https://git.io/typing-svg)
+  <br><br>
 
-<br/><br/>
-
-![Focus - ASR & NLP](https://img.shields.io/badge/Focus-ASR%20%26%20NLP-1F2937?style=for-the-badge&logo=mic&logoColor=60A5FA&labelColor=111827)
-![MSc Computer Science](https://img.shields.io/badge/MSc-Computer%20Science-1F2937?style=for-the-badge&logo=graduation-cap&logoColor=10B981&labelColor=111827)
-![Open to Global Opportunities](https://img.shields.io/badge/Open%20to-Global%20Opportunities-1F2937?style=for-the-badge&logo=globe&logoColor=F59E0B&labelColor=111827)
-
+  <img src="https://img.shields.io/badge/Focus-ASR%20%26%20NLP-1F2937?style=for-the-badge&logo=mic&logoColor=60A5FA&labelColor=111827">
+  <img src="https://img.shields.io/badge/MSc-Computer%20Science-1F2937?style=for-the-badge&logo=graduation-cap&logoColor=10B981&labelColor=111827">
+  <img src="https://img.shields.io/badge/Open%20to-Global%20Opportunities-1F2937?style=for-the-badge&logo=globe&logoColor=F59E0B&labelColor=111827">
 </div>
 
 ---
 
-## 👋 About Me
-I am an **AI Software Engineer** and **MSc Computer Science candidate** with a strong foundation in full-stack development and a growing specialization in **speech and language technologies**.
+### About Me
 
-My work sits at the intersection of **software engineering, machine learning, and applied research**, with an emphasis on building **practical, scalable, and data-efficient AI systems**.
-
----
-
-## 🔬 Research Statement
-> **I focus on low-resource ASR and NLP, studying data scaling laws and self-supervised methods to build robust speech systems under limited data constraints.**
+AI Software Engineer & MSc Computer Science candidate specializing in **low-resource speech and language technologies**.  
+Building scalable, data-efficient AI systems at the intersection of software engineering, machine learning, and applied research.
 
 ---
 
-## 🔬 Research Interests
-- Low-resource **Automatic Speech Recognition (ASR)**
-- **Natural Language Processing** for underrepresented and multilingual settings
-- **Data scaling laws** in speech and language models
-- **Self-supervised learning** for speech and text
-- Data-efficient and compute-aware AI systems
-- Applied AI for real-world deployment
+### Research Focus
+
+> Low-resource **ASR** and **NLP** — studying data scaling laws and self-supervised learning to create robust speech systems with minimal labeled data.
 
 ---
 
-## 🧠 Technical Expertise
+### Research Interests
 
-### 🎙️ Speech & Language AI
-- End-to-end and hybrid **ASR pipelines**
-- Audio preprocessing, feature extraction, and evaluation
-- Transformer-based speech and NLP models
-- Working with **limited, noisy, and real-world datasets**
-- Experiment tracking and reproducibility
-
-### 🤖 Machine Learning & Data
-- Python-based ML workflows
-- Model training, evaluation, and analysis
-- Data preprocessing and augmentation
-- Research-driven experimentation
-
-### 💻 Software Engineering
-- Full-stack development (**React, Node.js, Firebase**)
-- API design for ML-powered systems
-- Real-time and event-driven architectures
-- Clean, maintainable, and scalable codebases
+- Low-resource Automatic Speech Recognition (ASR)
+- Multilingual & underrepresented language NLP
+- Data scaling laws in speech & language models
+- Self-supervised / contrastive pretraining
+- Compute-aware and data-efficient AI
+- Production-grade applied AI deployment
 
 ---
 
-## 🎓 Academic Background
+### Technical Skills
 
-### Master of Science (MSc) — Computer Science *(Ongoing)*
-- Focus on AI, speech technologies, and NLP
-- Applying research methods to speech and language modeling
-
-### Bachelor of Science (BSc) — Computer Science
-- **Maseno University**
-- **First Class Honours**
-- **CGPA:** 4.69 / 5.00
-- **Rank:** Top Student — Class of 2025
+| Category                  | Core Technologies & Experience                                      |
+|---------------------------|---------------------------------------------------------------------|
+| **Speech & Language AI**  | End-to-end & hybrid ASR • Whisper / Conformer / HuBERT • Wav2Vec 2.0 • Audio preprocessing • CTC / RNNT / Transducer • Evaluation (WER, CER, BLEU, ROUGE) |
+| **Machine Learning**      | PyTorch • Transformers • Self-supervised learning • Data augmentation • Experiment tracking (Weights & Biases, MLflow) |
+| **Software Engineering**  | Python • React • Node.js • Firebase • REST & GraphQL APIs • Real-time systems • Clean & scalable architecture |
+| **Tools & Practices**     | Git • Docker • CI/CD • Reproducible research • Linux |
 
 ---
 
-## 🧪 Current Work
-- Developing **low-resource ASR systems** for underrepresented languages
-- Investigating **data scaling behavior** in speech models
-- Experimenting with **self-supervised pretraining** for speech and NLP
-- Integrating AI models into **practical software pipelines**
+### Education
+
+| Degree                            | Institution          | Details                              |
+|-----------------------------------|----------------------|--------------------------------------|
+| MSc Computer Science (Ongoing)    | —                    | AI, Speech Technologies, NLP focus   |
+| BSc Computer Science              | Maseno University    | First Class Honours<br>CGPA: 4.69/5.00<br>Top Student – Class of 2025 |
 
 ---
 
-## 🌍 Career Interests
-- AI Engineer (**Speech & NLP**)
-- Research Engineer (**Speech / Language**)
-- MSc Research & **AI Lab Internships**
-- Roles bridging **research and production engineering**
+### Current Work
 
-🌐 **Open to remote roles and international relocation**
+- Building low-resource ASR systems for African & underrepresented languages  
+- Studying scaling behavior of speech foundation models  
+- Exploring self-supervised pretraining strategies  
+- Integrating research models into production pipelines
+
+---
+
+### Looking For
+
+- **AI Engineer** (Speech & NLP focus)  
+- **Research Engineer** (Speech / Language AI)  
+- MSc thesis / AI lab internships  
+- Roles bridging research ↔ production engineering  
+
+🌍 **Open to remote positions & international relocation**
 
 ---
 
 <div align="center">
 
-## 📫 Connect
+### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@foxh79-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foxh79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Boniface%20Mwau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boniface-mwau/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbmwau@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kbmwau@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbmwau@gmail.com)
 
 </div>
