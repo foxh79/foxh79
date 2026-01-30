@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://github.com/foxh79/foxh79/blob/main/github-header-banner.png/>
+<img src="https://github.com/foxh79/foxh79/raw/main/github-header-banner.png" alt="Boniface Mwau - Matrix Banner"/>
+
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Low-resource+Speech+and+Language+AI;Automatic+Speech+Recognition+%26+NLP;Scalable+and+Data-efficient+AI+Systems)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
 
-![AI Engineer](https://img.shields.io/badge/Focus-ASR%20%26%20NLP-1F2937?style=for-the-badge&logo=mic&logoColor=60A5FA&labelColor=111827)
-![MSc Candidate](https://img.shields.io/badge/MSc-Computer%20Science-1F2937?style=for-the-badge&logo=graduation-cap&logoColor=10B981&labelColor=111827)
-![Open Worldwide](https://img.shields.io/badge/Open%20to-Global%20Opportunities-1F2937?style=for-the-badge&logo=globe&logoColor=F59E0B&labelColor=111827)
+![Focus - ASR & NLP](https://img.shields.io/badge/Focus-ASR%20%26%20NLP-1F2937?style=for-the-badge&logo=mic&logoColor=60A5FA&labelColor=111827)
+![MSc Computer Science](https://img.shields.io/badge/MSc-Computer%20Science-1F2937?style=for-the-badge&logo=graduation-cap&logoColor=10B981&labelColor=111827)
+![Open to Global Opportunities](https://img.shields.io/badge/Open%20to-Global%20Opportunities-1F2937?style=for-the-badge&logo=globe&logoColor=F59E0B&labelColor=111827)
 
 </div>
 
 ---
 
 ## 👋 About Me
-
 I am an **AI Software Engineer** and **MSc Computer Science candidate** with a strong foundation in full-stack development and a growing specialization in **speech and language technologies**.
 
 My work sits at the intersection of **software engineering, machine learning, and applied research**, with an emphasis on building **practical, scalable, and data-efficient AI systems**.
@@ -23,13 +24,11 @@ My work sits at the intersection of **software engineering, machine learning, an
 ---
 
 ## 🔬 Research Statement
-
 > **I focus on low-resource ASR and NLP, studying data scaling laws and self-supervised methods to build robust speech systems under limited data constraints.**
 
 ---
 
 ## 🔬 Research Interests
-
 - Low-resource **Automatic Speech Recognition (ASR)**
 - **Natural Language Processing** for underrepresented and multilingual settings
 - **Data scaling laws** in speech and language models
@@ -77,7 +76,6 @@ My work sits at the intersection of **software engineering, machine learning, an
 ---
 
 ## 🧪 Current Work
-
 - Developing **low-resource ASR systems** for underrepresented languages
 - Investigating **data scaling behavior** in speech models
 - Experimenting with **self-supervised pretraining** for speech and NLP
@@ -86,7 +84,6 @@ My work sits at the intersection of **software engineering, machine learning, an
 ---
 
 ## 🌍 Career Interests
-
 - AI Engineer (**Speech & NLP**)
 - Research Engineer (**Speech / Language**)
 - MSc Research & **AI Lab Internships**
@@ -101,7 +98,7 @@ My work sits at the intersection of **software engineering, machine learning, an
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@foxh79-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foxh79)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boniface%20Mwau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foxh79)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boniface%20Mwau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boniface-mwau/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbmwau@gmail.com)
 
 </div>
