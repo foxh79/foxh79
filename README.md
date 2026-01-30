@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=BONIFACE%20MWAU&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20ASR%20%26%20NLP%20%7C%20MSc%20Computer%20Science%20Candidate&descSize=18&descAlignY=58"/>
+<img src="https://github.com/foxh79/foxh79/blob/main/github-header-banner.png/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Low-resource+Speech+and+Language+AI;Automatic+Speech+Recognition+%26+NLP;Scalable+and+Data-efficient+AI+Systems)](https://git.io/typing-svg)
 
